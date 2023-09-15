@@ -1,0 +1,14 @@
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\bin\Debug\net7.0\IBID-desafio-bootcamp.exe
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\bin\Debug\net7.0\IBID-desafio-bootcamp.deps.json
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\bin\Debug\net7.0\IBID-desafio-bootcamp.runtimeconfig.json
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\bin\Debug\net7.0\IBID-desafio-bootcamp.dll
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\bin\Debug\net7.0\IBID-desafio-bootcamp.pdb
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\IBID-desafio-bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\IBID-desafio-bootcamp.AssemblyInfoInputs.cache
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\IBID-desafio-bootcamp.AssemblyInfo.cs
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\IBID-desafio-bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\IBID-desafio-bootcamp.dll
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\refint\IBID-desafio-bootcamp.dll
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\IBID-desafio-bootcamp.pdb
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\IBID-desafio-bootcamp.genruntimeconfig.cache
+C:\Users\lkm20\Desktop\Estudos\Repositórios Git\C#\IBID-desafio-bootcamp\obj\Debug\net7.0\ref\IBID-desafio-bootcamp.dll
