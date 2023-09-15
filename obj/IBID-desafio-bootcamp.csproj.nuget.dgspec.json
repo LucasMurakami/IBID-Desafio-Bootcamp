@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj": {}
+    "C:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj": {
+    "C:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj",
+        "projectUniqueName": "C:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj",
         "projectName": "IBID-desafio-bootcamp",
-        "projectPath": "c:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj",
+        "projectPath": "C:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\IBID-desafio-bootcamp.csproj",
         "packagesPath": "C:\\Users\\lkm20\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\obj\\",
+        "outputPath": "C:\\Users\\lkm20\\Desktop\\Estudos\\Repositórios Git\\C#\\IBID-desafio-bootcamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lkm20\\AppData\\Roaming\\NuGet\\NuGet.Config",
